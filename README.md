@@ -13,8 +13,6 @@
 
 - All of my projects are available at [https://github.com/CaydendW](https://github.com/CaydendW)
 
-- How to reach me **cayden@4dewits.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/caydendw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="caydendw" height="30" width="40" /></a>
