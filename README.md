@@ -23,5 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caydendw&show_icons=true&locale=en&layout=compact" alt="caydendw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caydendw&show_icons=true&title_color=f53054&text_color=c8c8c8&bg_color=1f132a&locale=en" alt="caydendw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caydendw&show_icons=true&title_color=f53054&text_color=050505&bg_color=ffffff&locale=en" alt="caydendw" /></p>
 
