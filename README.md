@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caydendw" alt="caydendw" /></a> </p>
 
-- I’m currently working on [nonix](https://github.com/CaydendW/nonix)
+- I’m currently working on [MandelbrotOS](https://github.com/MandelbrotOS/MandelbrotOS)
 
 - I’m currently learning **C, Assembly and the principles of OSDEV**
-
-- I’m looking for help with [nonix](https://github.com/CaydendW/nonix)
 
 - All of my projects are available at [https://github.com/CaydendW](https://github.com/CaydendW)
 
