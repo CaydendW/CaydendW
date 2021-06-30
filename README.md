@@ -30,6 +30,10 @@
 </a> 
 <a href="https://reddit.com/u/CaydendW" target="_blank">
 <img src=https://img.shields.io/badge/reddit-%23ff4500.svg?style=for-the-badge&logo=reddit&logoColor=white style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/channel/UC9KmmnFmuHkegRu1LnjiYaQ" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
